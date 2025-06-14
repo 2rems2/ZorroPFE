@@ -1,0 +1,42 @@
+{
+    "racisme": [
+        "📞 SOS Racisme : https://sosracisme.org/",
+        "📘 Défenseur des droits : https://www.defenseurdesdroits.fr/"
+    ],
+    "homophobie": [
+        "🏳️‍🌈 SOS Homophobie : https://www.sos-homophobie.org/",
+        "📞 Ligne d'écoute : 01 48 06 42 41"
+    ],
+    "sexisme": [
+        "📞 Violences Femmes Info : 3919",
+        "💡 Fondation des Femmes : https://fondationdesfemmes.org/"
+    ],
+    "grossophobie": [
+        "🤝 Gras Politique : https://graspolitique.fr/",
+        "🎧 Stop Grossophobie : https://www.stopgrossophobie.fr/"
+    ],
+    "physique": [
+        "🤝 Gras Politique : https://graspolitique.fr/",
+        "🎧 Stop Grossophobie : https://www.stopgrossophobie.fr/"
+    ],
+    "religion": [
+        "🕌 Défenseur des droits (discriminations religieuses) : https://www.defenseurdesdroits.fr/",
+        "📘 LICRA : https://www.licra.org/"
+    ],
+    "handicap": [
+        "♿ APF France Handicap : https://www.apf-francehandicap.org/",
+        "📞 Écoute Handicap Mental : 0 800 800 857"
+    ],
+    "identitaire": [
+        "📘 LICRA : https://www.licra.org/",
+        "📞 Discriminations : 08 00 00 50 00"
+    ],
+    "injure": [
+        "📘 Défenseur des droits (injures publiques) : https://www.defenseurdesdroits.fr/",
+        "🛑 Pharos (signalement en ligne) : https://www.internet-signalement.gouv.fr/"
+    ],
+    "default": [
+        "💬 Net Écoute (harcèlement en ligne) : 3018 ou https://www.netecoute.fr/",
+        "🛑 Pharos (signalement) : https://www.internet-signalement.gouv.fr/"
+    ]
+}
