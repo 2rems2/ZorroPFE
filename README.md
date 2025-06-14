@@ -96,4 +96,5 @@ Usage **académique ou pédagogique uniquement**.
 Merci de **citer ce projet** en cas d’utilisation.
 
 Rabemananjara Joëlla - joella.rabe@icloud.com
+
 Renaudin Rémi - renaudinremi2002@gmail.com
